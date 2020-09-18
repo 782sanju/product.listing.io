@@ -1,0 +1,19 @@
+{
+  "name": "product-listing",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "9.5.3",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-paginate": "^6.5.0",
+    "swr": "^0.3.2"
+  }
+}

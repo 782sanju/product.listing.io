@@ -1,0 +1,10 @@
+.banner-container img {
+    width: 100%;
+    height: 200px;
+    border-radius: 22px;
+}
+@media (max-width: 799px) {
+    .banner-container {
+        padding: 0 15px;
+    }
+}

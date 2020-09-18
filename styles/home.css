@@ -1,0 +1,25 @@
+.homepage {
+    background-color: #f8f8f8;
+}
+.component-container {
+    margin: 20px 0 0;
+}
+.category-list .header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.category-list .header a, .category-list .header a:hover{
+    text-decoration: none;
+    color: #d380ea;
+    font-weight: 600;
+    cursor: pointer;
+}
+.header .title{
+    font-size: 15px;
+    color: #9a9a9a;
+}
+.category-list ul li {
+    flex : 0 0 20%;
+    max-width: 20%;
+}
